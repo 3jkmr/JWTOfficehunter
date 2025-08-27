@@ -4,5 +4,5 @@ Python based tool designed to identified and extract JSON Web Tokens (JWTs) from
 Installation & Usage
 
 git clone https://github.com/3jkmr/JWTOfficehunter
-cd tokenloot
+cd JWTOfficehunter
 pip install -r requirements.txt
