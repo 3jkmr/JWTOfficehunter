@@ -3,8 +3,6 @@ Python based tool designed to identified and extract JSON Web Tokens (JWTs) from
 
 Installation & Usage
 
-git clone https://github.com/yourname/tokenloot.git
-
+git clone https://github.com/3jkmr/JWTOfficehunter
 cd tokenloot
-
 pip install -r requirements.txt
